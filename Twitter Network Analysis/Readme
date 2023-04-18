@@ -1,0 +1,1 @@
+we will collect Twitter users and relationships. We will load this data to a graph database. Finally, we will analyze the network. The final result is a recommendation of who to follow.
